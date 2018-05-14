@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Carter Lab - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Carter Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -10,9 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-
-## Lab Members
+## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -79,19 +77,6 @@ permalink: /team/
 
 
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
 
 ## Alumni
 <table align="center" style="width:100%">
@@ -100,7 +85,7 @@ permalink: /team/
     <th>Bachelor Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
+    <td>FirstName LastName, Spring 2016</td>
     <td>Bert Visscher, Fall 2017</td>
     <td>Vishnu Saj, Spring 2017</td>
   </tr>
