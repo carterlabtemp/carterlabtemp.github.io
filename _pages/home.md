@@ -20,7 +20,7 @@ Our lab is within the [School of Medicine at UC San Diego](https://medschool.ucs
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group1.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/group1.JPG" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PublicationsInteractionsBetweenInheritedGenomeAndTumorDevelopment.png" alt="Slide 2" />
