@@ -97,9 +97,4 @@ permalink: /team/
 
 </table>
 
-
-
-
-
-
-
+<br><br>
