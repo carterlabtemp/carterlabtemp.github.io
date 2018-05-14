@@ -16,7 +16,7 @@ We use computational tools to study the relationship between genotype and cancer
 
 Tumors develop through the accumulation of genetic and epigenetic alterations that confer an inappropriate growth advantage to tumor cells. Cancer-causing mutations target specific intracellular biological activities related to cell survival, growth, differentiation and genome maintenance. However no two tumors share the identical set of mutations, suggesting that there are many different ways to impact the same cellular behaviors. We are developing network models to investigate how different mutations converge on neoplastic cellular behaviors. The knowledge gained from these models will help inform future efforts to develop effective cancer therapies.
 
-![]({{ site.url }}{{ site.baseurl }}/images/research pic/ResearchTools.png){: style="width: 550px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research pic/ResearchTumors.png){: style="width: 550px; float: center; border: 10px"}
 
 Related publications:
 
