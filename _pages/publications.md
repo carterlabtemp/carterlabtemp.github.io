@@ -61,3 +61,19 @@ permalink: /publications/
  {% endif %}
 {% endfor %}
 <br><br>
+##### *2016*
+{% for publi in site.data.publist %}
+ {% if publi.year == 2016 %}
+   {{ publi.title }} <br />
+   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ {% endif %}
+{% endfor %}
+<br><br>
+##### *2015*
+{% for publi in site.data.publist %}
+ {% if publi.year == 2015 %}
+   {{ publi.title }} <br />
+   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+ {% endif %}
+{% endfor %}
+<br><br>
