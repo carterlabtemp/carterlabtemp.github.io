@@ -13,7 +13,6 @@ We use computational tools to study the relationship between genotype and cancer
 ![]({{ site.url }}{{ site.baseurl }}/images/research_pic/ResearchTools.png){: style="width: 500px; float: center; border: 10px"}
 
 <br><br>
-
 #### Studying the impact of cancer mutations on intracellular biological activities
 
 Tumors develop through the accumulation of genetic and epigenetic alterations that confer an inappropriate growth advantage to tumor cells. Cancer-causing mutations target specific intracellular biological activities related to cell survival, growth, differentiation and genome maintenance. However no two tumors share the identical set of mutations, suggesting that there are many different ways to impact the same cellular behaviors. We are developing network models to investigate how different mutations converge on neoplastic cellular behaviors. The knowledge gained from these models will help inform future efforts to develop effective cancer therapies.
@@ -28,7 +27,6 @@ Engin B, Kreisberg J, Carter H* Structure-based Analysis Reveals Cancer Missense
 
 Engin B, Hofree M, Carter H* Identifying Mutation-Specific Cancer Pathways Using a Structurally Resolved Protein Interaction Network Pac Symp Biocomput. 84-95 (2015)
 
-<br><br>
 <br><br>
 #### Discriminating cancer drivers from passengers
 
