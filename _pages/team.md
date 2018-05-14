@@ -85,7 +85,7 @@ permalink: /team/
     <th>Visiting Scholars</th>
   </tr>
   <tr>
-    <td>Billur Engin, Spring 2016</td>
+    <td>Billur Engin, PhD, Spring 2016</td>
     <td>FirstName LastName, Fall 2017</td>
     <td>FirstName LastName, Spring 2017</td>
   </tr>
