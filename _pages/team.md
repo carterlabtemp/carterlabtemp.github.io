@@ -21,7 +21,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/team_pic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -87,7 +87,7 @@ permalink: /team/
   <tr>
     <td>Billur Engin, PhD, Spring 2016</td>
     <td>FirstName LastName, Fall 2017</td>
-    <td>FirstName LastName, Spring 2017</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
