@@ -47,7 +47,7 @@ We are grateful for funding from X, [NWO](www.nwo.nl) ([ZZ](http://www.nwo.nl/en
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UCSD_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIH_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NIH_logo.png" style="width: 130px">
 </figure>
 
 
