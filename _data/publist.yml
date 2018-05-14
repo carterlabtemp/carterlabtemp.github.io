@@ -4,7 +4,7 @@
   authors: Marty R, Kaabinejadian S, Rossell D, Slifker MJ, van de Haar J, Engin HB, de Prisco N, Ideker T, Hildebrand WH, Font-Burgada J, Carter H
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29107334
-    display:  Cell (2017) (In press)
+    display: Cell (2017) (In press)
   highlight: 1
   news2: 
   year: 2017
@@ -15,7 +15,7 @@
   authors: Ortiz D, Tsui B, Goshia T, Chute-Ricker C, Han A, Carter H, Fraley SI 
   link:
     url: https://www.nature.com/articles/s41467-017-01556-7
-    display:  Nature Communications (2017) (In Press)
+    display: Nature Communications (2017) (In Press)
   highlight: 1
   news2: 
   year: 2017
@@ -26,7 +26,7 @@
   authors: Xu R, Wei W,Krawczyk M, Wang W, Luo H, Flagg K, Yi S, Shi W, Li K, Zheng L, Zhang H, Caughey BA, Zhao Q, Hou J, Zhang R, Xu Y, Cai H, Li G, Hou R, Zhong Z, Lin D, Fu X, Zhu J, Duan Y, Zhang E, Zhang C, Li O, Carter H, Zhu J, Hao X, Zhang K
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29035356
-    display:  Nature Materials (2017) (In Press)
+    display: Nature Materials (2017) (In Press)
   highlight: 1
   news2: 
   year: 2017
@@ -58,8 +58,65 @@
   authors: Carter H, Marty R, Hofree M, Gross A, Jensen J, Fisch K, Wu X, DeBoever C, Van Nostrand E, Song Y, Wheeler E, Kreisberg J, Lippman S, Yeo G, Gutkind S, Ideker T
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28188128
-    display:  Cancer Discovery Apr 1;7(4):410-23 (2017)
+    display: Cancer Discovery Apr 1;7(4):410-23 (2017)
   highlight: 0
   news2: 
   year: 2017
+  
+- title: Immune DNA signature of T-Cell infiltration in breast tumor exomes
+  image: dummy.jpg
+  description: ""
+  authors: Levy E, Marty R, Garate-Calderon V, Woo B, Dow M, Armisen R, Carter H, Harismendy O 
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4958917/
+    display: Scientific Reports 6, Article number: 30064  (2016)
+  highlight: 0
+  news2: 
+  year: 2016
+  
+- title: Challenges in identifying cancer genes by analysis of exome sequencing data
+  image: dummy.jpg
+  description: ""
+  authors: Hofree M, Carter H, Kreisberg J, Bandyopadhyay S, Mischel P, Friend S, Ideker T
+  link:
+    url: https://www.nature.com/articles/ncomms12096
+    display: Nature Communications Jul 15;7:12096 (2016)
+  highlight: 0
+  news2: 
+  year: 2016
+  
+- title: Structure-based Analysis Reveals Cancer Missense Mutations Target Protein Interaction Interfaces
+  image: dummy.jpg
+  description: ""
+  authors: Engin B, Kreisberg J, Carter H
+  link:
+    url: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152929
+    display: PLoS One Apr 4;11(4):e0152929 (2016)
+  highlight: 0
+  news2: 
+  year: 2016
+  
+- title: Periportal Hybrid Hepatocytes Regenerate the Injured Liver without Giving Rise to Cancer
+  image: dummy.jpg
+  description: ""
+  authors: Font-Burgada J, Shalapour S, Ramaswamy S, Hsueh B, Rossell D, Umemura A, Taniguchi K, Nakagawa H, Valasek M, Ye L, Kopp JL, Sander M, Carter H, Deisseroth K, Verma I and Karin M
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/26276631
+    display: Cell, 162(4), 766-779 (2015)
+  highlight: 0
+  news2: 
+  year: 2015
+  
+- title: Identifying Mutation-Specific Cancer Pathways Using a Structurally Resolved Protein Interaction Network
+  image: dummy.jpg
+  description: ""
+  authors: Engin B, Hofree M, Carter H
+  link:
+    url: https://www.ncbi.nlm.nih.gov/pubmed/25592571
+    display: Pac Symp Biocomput. 84-95 (2015)
+  highlight: 0
+  news2: 
+  year: 2015
+  
+
 
