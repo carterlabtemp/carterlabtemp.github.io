@@ -53,3 +53,4 @@ Marty R, Kaabinejadian S, Rossell D, Slifker MJ, van de Haar J, Engin HB, de Pri
 
 Carter H, Marty R, Hofree M, Gross A, Jensen J, Fisch K, Wu X, DeBoever C, Van Nostrand E, Song Y, Wheeler E, Kreisberg J, Lippman S, Yeo G, Gutkind S, Ideker T Widespread interacion of inherited polymorphisms with somatic events in cancer Cancer Discovery Apr 1;7(4):410-23 (2017)
 
+<br><br>
