@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Carter Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Carter Lab at UC San Diego."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+Our lab is within the [School of Medicine at UC San Diego](https://medschool.ucsd.edu/Pages/default.aspx). We use computational tools to study the relationship between genotype and cancer-associated phenotypes at multiple scales.
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
