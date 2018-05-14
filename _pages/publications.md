@@ -60,7 +60,7 @@ permalink: /publications/
    <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
  {% endif %}
 {% endfor %}
-
+<br>
 #### *2016*
 {% for publi in site.data.publist %}
  {% if publi.year == 2016 %}
@@ -68,7 +68,7 @@ permalink: /publications/
    <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
  {% endif %}
 {% endfor %}
-
+<br>
 #### *2015*
 {% for publi in site.data.publist %}
  {% if publi.year == 2015 %}
