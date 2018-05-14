@@ -46,8 +46,8 @@ We are  looking for passionate new PhD students, Postdocs, and Master students t
 We are grateful for funding from X, [NWO](www.nwo.nl) ([ZZ](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and [Y](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from [Z](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/UCSD_logo.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/NIH_logo.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/UCSD_logo.png" style="width: 110px; border: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/NIH_logo.png" style="width: 130px; border: 10px">
 </figure>
 
 
