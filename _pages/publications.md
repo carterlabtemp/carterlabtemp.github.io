@@ -58,6 +58,6 @@ permalink: /publications/
  {% if publi.year == 2017 %}
    {{ publi.title }} <br />
    <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+ {% endif %}
 {% endfor %}
 
