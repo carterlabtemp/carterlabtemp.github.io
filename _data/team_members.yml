@@ -1,26 +1,27 @@
 - name: Hannah Carter
   photo: CarterHannah.png
-  info: Assistant Professor, started Jan 2013
+  info: Assistant Professor in the Department of Medicine, Division of Medical Genetics
   email: hkcarter@ucsd.edu
   number_educ: 4
-  education1: Master 
-  education2: PhD 
-  education4: Example
-  education5: test
+  education1: PhD in Biomedical Engineering, Johns Hopkins University
+  education2: MEng in Electrical and Computer Engineering, University of Louisville
+  education4: Azrieli Global Scholar
+  education5: Siebel Scholar
+  education6: 2013 NIH Director's Early Independence Award
   
 - name: Rachel Marty
   photo: MartyRachel.jpg
   info: PhD Candidate
   email: rachelmarty20@gmail.com
   number_educ: 1
-  education1: B.S. Computer Science, UCSD
+  education1: B.S. Computer Science with a specialization in Bioinformatics, UC San Diego, 2014
   
 - name: Brian Tsui
   photo: TsuiBrian.png
   info: PhD Candidate
   email: btsui@eng.ucsd.edu
   number_educ: 1
-  education1: B.S. Computer Science, UCSD
+  education1: B.S. Computer Science, UC San Diego, 2014
   
 - name: Michelle Dow
   photo: DowMichelle.png
@@ -48,13 +49,12 @@
   info: PhD Student
   email: abc046@eng.ucsd.edu
   number_educ: 1
-  education1: B.S. Microbiology Immunology and Molecular Genetics, UCLA
+  education1: B.S. Microbiology Immunology and Molecular Genetics, UCLA, 2017
 
-  
 - name: Jessica Zhou  
   photo: ZhouJessica.png
   info: PhD Student
   email: jlz014@eng.ucsd.edu  
   number_educ: 1
-  education1: B.S. Biomedical Engineering, USC
+  education1: B.S. Biomedical Engineering, University of Southern California, 2017
  
