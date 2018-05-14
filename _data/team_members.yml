@@ -2,7 +2,7 @@
   photo: CarterHannah.png
   info: Assistant Professor, started Jan 2013
   email: hkcarter@ucsd.edu
-  number_educ: 5
+  number_educ: 4
   education1: Master 
   education2: PhD 
   education4: Example
@@ -12,14 +12,14 @@
   photo: MartyRachel.png
   info: PhD Candidate
   email: rachelmarty20@gmail.com
-  number_educ: 4
+  number_educ: 1
   education1: B.S. Computer Science, UCSD
   
 - name: Brian Tsui
   photo: TsuiBrian.png
   info: PhD Candidate
   email: btsui@eng.ucsd.edu
-  number_educ: 2
+  number_educ: 1
   education1: B.S. Computer Science, UCSD
   
 - name: Michelle Dow
@@ -40,9 +40,8 @@
   photo: XianSu.png
   info: MS Student
   email: suxian@eng.ucsd.edu
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a> 
+  number_educ: 1
+  education1: B.S.
   
 - name: Andrea Castro
   photo: CastroAndrea.png
@@ -56,7 +55,7 @@
   photo: ZhouJessica.png
   info: PhD Student
   email: jlz014@eng.ucsd.edu  
-  number_educ: 2
+  number_educ: 1
   education1: B.S. Biomedical Engineering, USC
  
 - name: "This could be you !"
