@@ -15,7 +15,7 @@
   link:
     url: https://www.nature.com/articles/s41467-017-01556-7
     display:  Nature Communications (2017) (In Press)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: Circulating tumour DNA methylation markers for diagnosis and prognosis of hepatocellular carcinoma 
@@ -25,7 +25,7 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29035356
     display:  Nature Materials (2017) (In Press)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: Modeling of RAS Complexes Supports Roles in Cancer for Less Studied Partners
@@ -45,7 +45,7 @@
   link:
     url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3770-y
     display: BMC Genomics Jun 12;18(1):458. (2017)
-  highlight: 1
+  highlight: 0
 
 - title: Interaction landscape of inherited polymorphisms with somatic events in cancer
   image: dummy.jpg
@@ -54,6 +54,6 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28188128
     display:  Cancer Discovery Apr 1;7(4):410-23 (2017)
-  highlight: 1
+  highlight: 0
   news2: 
 
