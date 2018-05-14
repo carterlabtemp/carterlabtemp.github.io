@@ -10,7 +10,7 @@ permalink: /team/
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-## Staff
+## Lab Members
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -80,50 +80,21 @@ permalink: /team/
 
 ## Alumni
 <table align="center" style="width:100%">
-<tr><th>Visitors</th>
-    <th>Master Students</th> 
-    <th>Bachelor Students</th>
+<tr><th>Graduate Students and Postdocs</th>
+    <th>Undergraduate Students</th> 
+    <th>Visiting Scholars</th>
   </tr>
   <tr>
-    <td>FirstName LastName, Spring 2016</td>
-    <td>Bert Visscher, Fall 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
-  </tr>
-  <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Ahmad Jamalzada, Fall 2017</td>
-    <td>Joey Braspenning, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Margot Leemker, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Sietske Lensen, Spring 2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Alexander Vanstone, Spring 2016</td>
+    <td>Billur Engin, Spring 2016</td>
+    <td>FirstName LastName, Fall 2017</td>
+    <td>FirstName LastName, Spring 2017</td>
   </tr>
   <tr>
     <td></td>
     <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
+    <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
-  </tr>
+
 </table>
 
 
