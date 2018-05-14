@@ -16,7 +16,7 @@
   link:
     url: https://www.nature.com/articles/s41467-017-01556-7
     display: Nature Communications (2017) (In Press)
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2017
 
@@ -27,7 +27,7 @@
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29035356
     display: Nature Materials (2017) (In Press)
-  highlight: 1
+  highlight: 0
   news2: 
   year: 2017
 
@@ -38,7 +38,7 @@
   link:
     url: https://bmcbiophys.biomedcentral.com/articles/10.1186/s13628-017-0037-6
     display: BMC Biophysics Aug 11;10(1):5 (2017)
-  highlight: 1
+  highlight: 0
   year: 2017
   
 - title: Pan-Cancer Analysis Reveals Technical Artifacts in The Cancer Genome Atlas (TCGA) Germline Variant Call
