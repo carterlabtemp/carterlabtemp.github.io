@@ -53,7 +53,7 @@ permalink: /publications/
 
 
 ## Full List
-##### *2017*
+#### *2017*
 {% for publi in site.data.publist %}
  {% if publi.year == 2017 %}
    {{ publi.title }} <br />
@@ -61,7 +61,7 @@ permalink: /publications/
  {% endif %}
 {% endfor %}
 <br><br>
-##### *2016*
+#### *2016*
 {% for publi in site.data.publist %}
  {% if publi.year == 2016 %}
    {{ publi.title }} <br />
@@ -69,7 +69,7 @@ permalink: /publications/
  {% endif %}
 {% endfor %}
 <br><br>
-##### *2015*
+#### *2015*
 {% for publi in site.data.publist %}
  {% if publi.year == 2015 %}
    {{ publi.title }} <br />
