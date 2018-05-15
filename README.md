@@ -29,4 +29,5 @@
   - Edit page: [\_pages/openings.md](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_pages/openings.md)
 
 - Lab pictures: 
+  - Edit: [\_pages/picture.md](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_pages/pictures.md)
   - Picture location: [images/picpic/Gallery](https://github.com/carterlabtemp/carterlabtemp.github.io/tree/master/images/picpic/Gallery)
