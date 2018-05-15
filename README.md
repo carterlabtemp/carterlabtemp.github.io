@@ -1,4 +1,4 @@
-# Carter Lab website
+# Carter Lab website: https://carterlabtemp.github.io
 
 ## To edit
 - Home page:
