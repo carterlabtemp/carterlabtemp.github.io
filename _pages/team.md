@@ -83,6 +83,6 @@ permalink: /team/
 Billur Engin, PhD. Spring 2016. (now at DuPont)
 
 #### Visiting Students
-Alexis Mcdonald, Howard University. Summer 2016.
+Alexis McDonald, Howard University. Summer 2016.
 
 <br><br><br>
