@@ -40,14 +40,14 @@ Our lab is within the [School of Medicine at UC San Diego](https://medschool.ucs
 
 
 
-We are  looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!
+We are looking for passionate new PhD students, Postdocs, and Master students to join the team [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies)!
  
  
 We are grateful for funding from X, [NWO](www.nwo.nl) ([ZZ](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and [Y](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from [Z](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/UCSD_logo.png" style="width: 110px; border: 10px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/NIH_logo.png" style="width: 130px; border: 10px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/UCSD_logo.png" style="width: 110px; border: 30px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo_pic/NIH_logo.png" style="width: 130px; border: 30px">
 </figure>
 
 <br><br>
