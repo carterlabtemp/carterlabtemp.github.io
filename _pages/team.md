@@ -79,10 +79,10 @@ permalink: /team/
 
 
 ## Alumni
-##### Postdocs
+#### Postdocs
 Billur Engin, PhD. Spring 2016. (now at DuPont)
-<br>
-##### Visiting Students
+<br><br>
+#### Visiting Students
 Alexis McDonald, Howard University. Summer 2016.
 
 <br><br><br>
