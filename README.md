@@ -11,6 +11,7 @@
   - Add/remove people: [\_data/team_members.yml](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_data/team_members.yml)
     - Image location: [images/team_pic](https://github.com/carterlabtemp/carterlabtemp.github.io/tree/master/images/team_pic)
   - Modify page layout: [\_pages/team.md](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_pages/team.md)
+  - Add/remove alumni: [\_pages/team.md](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_pages/team.md)
 
 - News:
   - Add/remove news items: [\_data/news.yml](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_data/news.yml)
