@@ -35,7 +35,7 @@
     - Add picture filenames from pic location below without full path
   - Picture location: [images/picpic/Gallery](https://github.com/carterlabtemp/carterlabtemp.github.io/tree/master/images/picpic/Gallery)
 
-- Footer/Bottom (including Carter Lab, Funcing, Contact):
+- Footer/Bottom (including Carter Lab, Funding, Contact):
   - Edit: [\_includes/footer.html](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_includes/footer.html)
   
 - Header/Top (including visible menu/ordering):
