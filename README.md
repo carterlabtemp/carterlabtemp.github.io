@@ -30,5 +30,5 @@
 
 - Lab pictures: 
   - Edit: [\_pages/picture.md](https://github.com/carterlabtemp/carterlabtemp.github.io/blob/master/_pages/pictures.md)
-    - Add picture filenames from images/picpic/Gallery] without full path
+    - Add picture filenames from pic location below without full path
   - Picture location: [images/picpic/Gallery](https://github.com/carterlabtemp/carterlabtemp.github.io/tree/master/images/picpic/Gallery)
