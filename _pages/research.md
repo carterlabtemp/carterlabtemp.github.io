@@ -10,7 +10,7 @@ permalink: /research/
 
 We use computational tools to study the relationship between genotype and cancer-associated phenotypes at multiple scales. 
  
-![]({{ site.url }}{{ site.baseurl }}/images/research_pic/ResearchTools.png){: style="width: 500px; float: center; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/research_pic/ResearchTools.png){: style="width: 600px; float: center; border: 10px"}
 
 <br><br>
 #### Studying the impact of cancer mutations on intracellular biological activities
