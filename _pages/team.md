@@ -79,22 +79,6 @@ permalink: /team/
 
 
 ## Alumni
-<table align="center" style="width:100%">
-<tr><th>Graduate Students and Postdocs</th>
-    <th>Undergraduate Students</th> 
-    <th>Visiting Scholars</th>
-  </tr>
-  <tr>
-    <td>Billur Engin, PhD, Spring 2016</td>
-    <td>FirstName LastName, Fall 2017</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-</table>
+Billur Engin, PhD. Postdoc. (Spring 2016; now at DuPont)
 
 <br><br><br>
