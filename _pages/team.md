@@ -79,6 +79,7 @@ permalink: /team/
 
 
 ## Alumni
-Billur Engin, PhD. Postdoc. (Spring 2016; now at DuPont)
+#### Postdocs
+Billur Engin, PhD. Spring 2016. (now at DuPont)
 
 <br><br><br>
